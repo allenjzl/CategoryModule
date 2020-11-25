@@ -1,0 +1,16 @@
+PODS:
+  - CategoryModule (0.1.0)
+
+DEPENDENCIES:
+  - CategoryModule (from `../`)
+
+EXTERNAL SOURCES:
+  CategoryModule:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  CategoryModule: 9cc0800212e46badfb862b2e4412beb5b6d8f874
+
+PODFILE CHECKSUM: d850a23e6ad7b42b2759164e6e8fea0172ec20e2
+
+COCOAPODS: 1.9.1
